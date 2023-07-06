@@ -1,5 +1,5 @@
 import './App.css'; 
-import GameBoard from './game/ameBoard';
+import GameBoard from './game/GameBoard';
 
 const Card = () => {
 
