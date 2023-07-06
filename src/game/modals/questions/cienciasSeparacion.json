@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "question": "Si requiero la distribución de tamaño de una muestra sólida y seca, en un rango de 2,700 nm a 3,200 nm, ¿qué equipo debo utilizar?",
+      "answer": "Hola soy una respuesta correcta"
+    },
+    {
+      "id": 2,
+      "question": "Soy pregunta 2",
+      "answer": "Hola soy una respuesta correcta 2"
+    },
+    {
+      "id": 3,
+      "question": "Soy pregunta 3",
+      "answer": "Hola soy una respuesta correcta 3"
+    },
+    {
+      "id": 4,
+      "question": "Soy pregunta 4",
+      "answer": "Hola soy una respuesta correcta 4"
+    },
+    {
+      "id": 5,
+      "question": "Soy pregunta 5",
+      "answer": "Hola soy una respuesta correcta 5"
+    }
+]    
