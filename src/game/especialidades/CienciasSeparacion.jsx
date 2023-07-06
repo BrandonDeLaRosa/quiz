@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Points20 from "../modals/cienciasSeparacion/Points20";
+import CienciasModal from "../modals/CienciasModal";
 
 const CienciasSeparacion = () => {
   const [isFlipped, setIsFlipped] = useState({
@@ -27,11 +27,11 @@ const CienciasSeparacion = () => {
   return (
     <div>
       {showModal ? (
-        <Points20 modal={showModal} setModal={setShowModal} selectedIndex={selectedIndex} />
+        <CienciasModal modal={showModal} setModal={setShowModal} selectedIndex={selectedIndex} />
       ) : (
         <section className="columns">
           <div className="column">
-            <div className="columnName">Analisis de particulas</div>
+            <div className="columnName">Ciencias separacion</div>
 
             <div className={`card ${isFlipped.button1 ? "flipped" : ""}`}>
               <div className="card-inner">

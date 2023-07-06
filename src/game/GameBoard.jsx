@@ -8,6 +8,7 @@ const GameBoard = () => {
 
   return (
     <div className="gameBoardContainer">
+
       <div className="gameBoardOptions">
             <CienciasSeparacion/>
             <Biotecnologia/>

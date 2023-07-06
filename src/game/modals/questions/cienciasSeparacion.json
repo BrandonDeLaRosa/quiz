@@ -1,27 +1,27 @@
 [
     {
       "id": 1,
-      "question": "Si requiero la distribución de tamaño de una muestra sólida y seca, en un rango de 2,700 nm a 3,200 nm, ¿qué equipo debo utilizar?",
-      "answer": "Hola soy una respuesta correcta"
+      "question": "¿Qué equipo Beckman utiliza la fuerza centrífuga para realizar separaciones?",
+      "answer": "Centrífuga"
     },
     {
       "id": 2,
-      "question": "Soy pregunta 2",
-      "answer": "Hola soy una respuesta correcta 2"
+      "question": "¿Qué tecnología de medición ocupa el equipo LS13320XR? ",
+      "answer": "Difracción Laser"
     },
     {
       "id": 3,
-      "question": "Soy pregunta 3",
-      "answer": "Hola soy una respuesta correcta 3"
+      "question": "Menciona 3 tecnologías de análisis que utiliza SCIEX en sus espectrómetros de masas: ",
+      "answer": "TOF, Cuadrupolo, Trampa de Iones"
     },
     {
       "id": 4,
-      "question": "Soy pregunta 4",
-      "answer": "Hola soy una respuesta correcta 4"
+      "question": "¿Si requiero la distribución de tamaño departícula de una muestra sólida y seca, en un rango de 2,700 nm a 3,200 nm, ¿qué equipo y accesorio debo utilizar? ",
+      "answer": "LS13320XR con Módulo DPS (Tornado)"
     },
     {
       "id": 5,
-      "question": "Soy pregunta 5",
-      "answer": "Hola soy una respuesta correcta 5"
+      "question": "¿Qué equipo SCIEX debo utilizar si requiero identificar y cuantificar fármacos en sangre total humana? ",
+      "answer": "QTRAP acoplado a Cromatógrafo de Líquidos"
     }
 ]    

@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import question from '../questions/cienciasSeparacion.json'
+import question from '../modals/questions/biologiaMolecular.json'
 
-const Points20 = ({setModal, selectedIndex}) => {
+const BiologiaMolecularModal = ({setModal, selectedIndex}) => {
 const [showAsnwer, setShowAnswer ] = useState(false)
 const closeModal = () => {
   setModal(false)
@@ -25,4 +25,4 @@ const closeModal = () => {
   );
 };
 
-export default Points20;
+export default BiologiaMolecularModal;
