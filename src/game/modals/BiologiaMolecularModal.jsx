@@ -15,7 +15,7 @@ const closeModal = () => {
         </div>
 
         <div className="modalAnswer">
-          <h1>Respuesta: </h1>
+          {/* <h1>Respuesta: </h1> */}
           <h3 className='answer'>{showAsnwer? question[selectedIndex].answer : "¿¿¿¿¿?????"}</h3>
           <button className='show' onClick={() => setShowAnswer(!showAsnwer)}>Show Answer</button>
         </div>

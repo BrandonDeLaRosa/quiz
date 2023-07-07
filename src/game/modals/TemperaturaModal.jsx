@@ -10,12 +10,12 @@ const closeModal = () => {
   return (
     <div className='modalWindowCont'>
         <div className='modalQuest'>
-          <h1>question: {question[selectedIndex].id} </h1>
+          <h1>Pregunta: {question[selectedIndex].id} </h1>
           <h3 className='question'>{question[selectedIndex].question}</h3>
         </div>
 
         <div className="modalAnswer">
-          <h1>Answer: </h1>
+          {/* <h1>Answer: </h1> */}
           <h3 className='answer'>{showAsnwer? question[selectedIndex].answer : "¿¿¿¿¿?????"}</h3>
           <button className='show' onClick={() => setShowAnswer(!showAsnwer)}>Show Answer</button>
         </div>
